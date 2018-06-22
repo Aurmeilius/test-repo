@@ -1,2 +1,2 @@
 # test-repo
-New change!
+New changes!
